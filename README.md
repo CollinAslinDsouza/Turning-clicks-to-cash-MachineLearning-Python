@@ -71,6 +71,6 @@ By applying this model to a live campaign environment, a business could:
 ## 👨‍💻 Author & Contact
 **Collin Aslin Dsouza** *Business Analytics & Management Accounting*
 
-* 📧 **Email:** [dszcollin@gmail.com](dszcollin@gmail.com)
-* 💼 **LinkedIn:** [Connect with me on LinkedIn](www.linkedin.com/in/collindsouza30)
+* 📧 **Email:** [dszcollin@gmail.com](mailto:dszcollin@gmail.com)
+* 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/collindsouza30)
 * 🐙 **GitHub:** [Explore my projects](https://github.com/CollinAslinDsouza)
